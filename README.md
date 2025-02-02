@@ -5,13 +5,18 @@ The SMS Spam Detection project utilizes machine learning techniques to classify 
 Project Links:
 
 ● GitHub Repository: https://github.com/Neelima-2330/textsafe
+
 ● Streamlit App (Live): https://textsafe-fippbqdjbu5tmuvwhrxznj.streamlit.app/
 
 Key Features
 ● Data Preprocessing: Cleaned and transformed raw data to prepare it for machine learning models.
+
 ● Feature Engineering: Processed and selected features to improve model performance.
+
 ● Model Training: Used various machine learning algorithms (like Logistic Regression, Random Forest) to classify messages as spam or ham.
+
 ● Streamlit App: Created an interactive app to visualize the classification results in real-time.
+
 ● GitHub Repository: Project code and instructions are available for reproducibility.
 
 Project Structure
