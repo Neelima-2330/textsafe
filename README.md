@@ -3,6 +3,7 @@ Overview
 The SMS Spam Detection project utilizes machine learning techniques to classify SMS messages as spam or not spam. The model was trained using a dataset of SMS messages, and a real-time Streamlit app was created to visualize the spam detection results.
 
 Project Links:
+
 ● GitHub Repository: https://github.com/Neelima-2330/textsafe
 ● Streamlit App (Live): https://textsafe-fippbqdjbu5tmuvwhrxznj.streamlit.app/
 
