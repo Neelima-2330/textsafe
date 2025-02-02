@@ -1,5 +1,7 @@
 SMS Spam Detection Project
+
 Overview
+
 The SMS Spam Detection project utilizes machine learning techniques to classify SMS messages as spam or not spam. The model was trained using a dataset of SMS messages, and a real-time Streamlit app was created to visualize the spam detection results.
 
 Project Links:
@@ -9,6 +11,7 @@ Project Links:
 ● Streamlit App (Live): https://textsafe-fippbqdjbu5tmuvwhrxznj.streamlit.app/
 
 Key Features
+
 ● Data Preprocessing: Cleaned and transformed raw data to prepare it for machine learning models.
 
 ● Feature Engineering: Processed and selected features to improve model performance.
@@ -20,9 +23,13 @@ Key Features
 ● GitHub Repository: Project code and instructions are available for reproducibility.
 
 Project Structure
+
 /data                 - Contains the dataset used for training and testing.
+
 /notebooks            - Jupyter notebooks for data analysis and model building.
+
 /app                  - Streamlit app files for real-time detection.
+
 README.md            - This file.
 
 Installation and Setup
@@ -39,7 +46,9 @@ Results
 ● Efficiency Gains: Automated data preprocessing, reducing manual effort by 25%.
 
 Contributing
+
 Feel free to fork this repository, open issues, or submit pull requests for any improvements or bug fixes!
 
 License
+
 This project is licensed under the MIT License - see the LICENSE file for details.
